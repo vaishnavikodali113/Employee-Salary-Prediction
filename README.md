@@ -161,14 +161,3 @@ matplotlib
 * Streamlit and scikit-learn open source communities
 
 ---
-
-## License
-
-This project is intended for academic and non-commercial use only.
-
-```
-
----
-
-Let me know if you'd like this exported into a file (`README.md`) or want help writing a sample `app.py` or `requirements.txt`.
-```
